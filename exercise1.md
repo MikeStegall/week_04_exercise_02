@@ -1,7 +1,7 @@
-#The five falses are:
+# The five falses are:
 
-##false
-##0
-##""
-##null
-##NaN
+## false
+## 0
+## ""
+## null
+## NaN
